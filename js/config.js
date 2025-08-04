@@ -110,10 +110,14 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    // lzi: {
-    //     api: 'https://cj.lziapi.com/api.php/provide/vod/',
-    //     name: '量子资源站'
-    // },
+    lzi: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: '量子资源站'
+    },
+    ddys: {
+        api: 'https://ddys.pro/api.php/provide/vod/',
+        name: '低端影视'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
