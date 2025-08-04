@@ -115,7 +115,7 @@ const API_SITES = {
         name: '量子资源站'
     },
     ddys: {
-        api: 'https://ddys.pro/api.php/provide/vod/',
+        api: 'https://ddysapi.pro/api.php/provide/vod/',
         name: '低端影视'
     },
     testSource: {
